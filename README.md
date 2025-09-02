@@ -1,8 +1,8 @@
 <!-- DATASET_USER_README_PLACEHOLDER: Replace all bracketed placeholders then delete this comment block. -->
 
-# Exploring Dataset [DATASET_NAME]
+# Exploring Dataset 'Testing Carina's findings'
 
-[SHORT_DATASET_DESCRIPTION]
+Testing notebook issues found by Carina while she tested/
 
 ## Available Notebooks
 | Notebook | Purpose | Key Libraries |
